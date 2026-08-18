@@ -11,3 +11,5 @@ just changes your discord status to random games every few mins.
 npm run auto              # rotates random games
 node index.js "Overwatch" # sets a specific game
 node index.js             # search games
+
+i do not intend on keeping this project up to date or anything prolly gonna be patched soon
